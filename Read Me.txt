@@ -1,0 +1,23 @@
+
+Requirements to Install this Project 
+
+-----------------------------
+
+1. VS Code
+2. Python IDLE 3.8.5 64bit 
+3. MySQL (Set the Path as well) (Create database same as mention in project file)
+
+-----------------------------
+
+Install Modules as Mention 
+
+1. pip install Pillow
+2. pip install opencv-contrib-python
+3. pip install tk
+4. pip install numpy
+5. pip install DateTime
+6. pip install mysql-connector-python
+
+------------------------------------------------
+
+Here is Youtube link : https://www.youtube.com/watch?v=dpkHHqXRVy4&t=672s
